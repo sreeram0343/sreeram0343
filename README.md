@@ -1,36 +1,155 @@
-# Hi there, I'm a builder of Artificial Intelligence & Machine Learning systems 👋
+# Hi there, I'm Sreeram M R 👋
 
-I am a B.Tech Computer Science and Engineering student (Class of 2027) deeply passionate about Artificial Intelligence, Machine Learning, and Data Science. I specialize in building intelligent systems, ranging from computer vision models to predictive platforms. 
+🎓 B.Tech Computer Science & Engineering Student (Class of 2027)  
+📍 Thiruvananthapuram, Kerala, India  
+🤖 AI • Machine Learning • Data Science • Software Engineering
 
-Currently, I am expanding my expertise in deep learning architectures and preparing to pursue a Master's degree in Data Science and AI in Germany.
+I am a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science. I enjoy building intelligent systems, exploring modern AI technologies, and applying machine learning techniques to solve real-world problems. My goal is to develop impactful AI-driven solutions while continuously expanding my knowledge in advanced machine learning and data science.
 
-### 🛠️ Tech Stack & Tools
+---
 
-* **Languages:** Python, [Add C++/Java/SQL if applicable]
-* **AI/ML Ecosystem:** [Add Pandas, NumPy, Scikit-learn, TensorFlow, or PyTorch]
-* **Development Environment:** Google Antigravity IDE
+## 🚀 About Me
 
-### 🚀 Featured Projects
+- 🎓 B.Tech CSE Student (2027)
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 📊 Interested in Data Science and Predictive Analytics
+- 🧠 Exploring Deep Learning and Computer Vision
+- 💻 Building AI-powered applications and intelligent systems
+- 🌱 Continuously learning and experimenting with emerging AI technologies
 
-* **🕵️‍♂️ VeriFace**  
-  An AI Authenticity Analysis system utilizing computer vision to classify facial images. Engineered to combat digital misinformation by accurately distinguishing between real photographs, AI-generated media, and deepfakes.
+---
 
-* **📈 Arthadhan**  
-  A financial intelligence platform leveraging machine learning to process and analyze complex data, providing smarter insights and streamlined automated analysis.
+## 🛠️ Technical Skills
 
-* **🤝 SecuMATE**  
-  An intelligent career mentoring platform designed to provide personalized guidance and support to students navigating their professional and academic journeys.
+### Programming Languages
+- Python
 
-### 🏆 Milestones & Leadership
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Predictive Modeling
+- Data Analysis
 
-* **Winner, Google Vortexa Hackathon:** Developed and presented an award-winning AI-powered prototype, demonstrating the ability to apply machine learning models to solve complex, real-time data challenges.
-* **Placement Operations Lead:** Managing placement initiatives, optimizing student-industry outreach, and facilitating career opportunities for the class of 2026/2027.
+### Tools & Platforms
+- Google Colab
+- Jupyter Notebook
+- Git & GitHub
+- Flask
+- Linux
 
-### 🌱 What I'm Currently Learning
+---
 
-* Advanced Computer Vision and Natural Language Processing (NLP) techniques.
-* Exploring the culture and language of Germany in preparation for my upcoming Master's studies.
+# 🌟 Featured Projects
 
-### 📫 Let's Connect!
+## 🕵️ VeriFace
+### AI-Powered Deepfake & Authenticity Detection System
 
-I am always eager to discuss machine learning models, data science research, and open-source AI projects. Feel free to reach out!
+VeriFace is an AI-driven authenticity analysis platform designed to identify manipulated digital media. Using computer vision and deep learning techniques, the system classifies facial images as genuine photographs, AI-generated images, or deepfakes.
+
+**Highlights**
+- Deepfake Detection
+- AI-Generated Image Classification
+- Computer Vision Pipeline
+- Image Authenticity Analysis
+- Deep Learning Models
+
+---
+
+## 📈 Arthadhan
+### Financial Intelligence Platform
+
+Arthadhan leverages machine learning techniques to analyze financial datasets and generate meaningful insights. The platform automates financial data processing and supports data-driven decision-making through intelligent analytics.
+
+**Highlights**
+- Financial Data Analysis
+- Predictive Modeling
+- Automated Analytics
+- Machine Learning-Based Insights
+- Data Processing Workflows
+
+---
+
+## 🛡️ SecuRock
+### AI-Powered Security Operations Center as a Service 
+
+SecuRock AI SOC is an intelligent security monitoring and analytics platform that leverages machine learning and automation to assist in detecting anomalous activities, analyzing security events, and generating actionable insights. The project combines data processing, pattern recognition, and AI-driven decision support to enhance operational visibility and response efficiency.
+
+**Highlights**
+- Machine Learning-Based Anomaly Detection
+- Security Event Analytics
+- Intelligent Alert Prioritization
+- Automated Data Processing Pipelines
+- AI-Assisted Threat Analysis
+- Real-Time Monitoring Dashboard
+
+🏆 Winner – Google Vortexa Hackathon
+
+---
+
+## 🧩 Quozil
+### Artificial Intelligence Research Initiative
+
+Quozil is an exploratory AI project focused on algorithmic optimization, advanced data processing, and intelligent computational techniques. The project serves as a platform for experimenting with machine learning concepts and innovative AI solutions.
+
+**Highlights**
+- Machine Learning Research
+- Algorithm Optimization
+- Data Engineering Concepts
+- Intelligent Processing Systems
+- AI Experimentation
+
+---
+
+## 🤖 Simple Transformer Chatbot
+### Transformer-Based Conversational AI
+
+A chatbot built from scratch using Transformer architecture concepts to understand how modern Large Language Models process and generate text. The project explores attention mechanisms, token embeddings, and sequence modeling fundamentals.
+
+**Highlights**
+- Transformer Architecture
+- Self-Attention Mechanism
+- Natural Language Processing
+- Sequence Modeling
+- Conversational AI
+
+GitHub: https://github.com/sreeram0343/simple-transformer-chatbot
+
+---
+
+## 🎯 Current Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Science
+- Natural Language Processing
+- Generative AI
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥇 Winner – Google Vortexa Hackathon
+- 👨‍💼 Placement Operations Lead (2026)
+- 🚀 Developed multiple AI and Machine Learning projects
+
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: sreerammurali2005@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/sreeram4/
+
+💻 GitHub:  
+https://github.com/sreeram0343
+
+---
+
+### 💡 Philosophy
+
+*"Artificial Intelligence is not just about building models—it's about creating systems that learn, adapt, and solve meaningful problems."*
