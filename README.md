@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/3o7TkmtExyR0o2R2tW/giphy.gif" alt="Animated Cyber/AI Banner" />
+<!-- Replace 'agi-banner.gif' with the exact filename of the GIF you upload to this repository -->
+<img width="100%" src="agi-banner.gif" alt="Animated AI/AGI Banner" />
 
 <br>
 
