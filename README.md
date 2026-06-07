@@ -1,54 +1,85 @@
 <div align="center">
 
-# Sreeram M R
-**AI Engineer | Computer Vision | NLP | Security**
-<br>
-B.Tech CSE '27 · Thiruvananthapuram, Kerala
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreeram4) &nbsp; [![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sreerammurali2005@gmail.com) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreeram0343)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Sreeram+M+R;AI+Engineer+%7C+Computer+Vision+%7C+NLP;Building+Intelligent+Systems;Security+%E2%80%A2+Vision+%E2%80%A2+Language" />
 
 <br>
 
-> *Building intelligent systems at the intersection of perception, language, and threat detection.* <br>
-> **Winner, Google Vortexa Hackathon** &nbsp; | &nbsp; **Placement Operations Lead, 2026**
+### ⚡ AI ENGINEER • ML RESEARCHER • SECURITY ENTHUSIAST
+
+**B.Tech CSE '27** • Thiruvananthapuram, Kerala
+
+<p>
+<a href="https://linkedin.com/in/sreeram4">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+<a href="mailto:sreerammurali2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-C7A008?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
+
+<a href="https://github.com/sreeram0343">
+<img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+</p>
+
+> **Building intelligent systems at the intersection of perception, language, and cyber defense.**
+
+🏆 **Google Vortexa Hackathon Winner**  
+🎯 **Placement Operations Lead 2026**  
+🚀 **Open to AI/ML Internships & Research Collaborations**
 
 </div>
 
 ---
 
-### ✦ Featured Projects
+## ◈ Featured Projects
 
-| Project | Domain | Description |
-| :--- | :--- | :--- |
-| **SecuRock** | ![AI Security](https://img.shields.io/badge/AI_Security-800000?style=flat-square) | ML-based SOC platform. *Google Vortexa Hackathon Winner.* |
-| **VeriFace** | ![Computer Vision](https://img.shields.io/badge/Computer_Vision-002366?style=flat-square) | Deepfake and AI-generated image classification system. |
-| **Arthadhan** | ![FinTech ML](https://img.shields.io/badge/FinTech_ML-013220?style=flat-square) | Predictive financial intelligence and analytics platform. |
-| **[Transformer Chatbot](https://github.com/sreeram0343/simple-transformer-chatbot)** | ![NLP](https://img.shields.io/badge/NLP-D4AF37?style=flat-square) | Custom self-attention architecture built from scratch. |
-
----
-
-### ✦ Technical Arsenal
-
-**Deep Learning & Vision** <br>
-![PyTorch](https://img.shields.io/badge/PyTorch-800000?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-800000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-800000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-800000?style=for-the-badge&logo=opencv&logoColor=white)
-<br>
-
-**NLP & Architecture** <br>
-![Transformers](https://img.shields.io/badge/Transformers-D4AF37?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs-D4AF37?style=for-the-badge)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-D4AF37?style=for-the-badge)
-<br>
-
-**Engineering & Infra** <br>
-![Python](https://img.shields.io/badge/Python-002366?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-002366?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-002366?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-002366?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-002366?style=for-the-badge&logo=linux&logoColor=white)
+| Project | Focus | Impact |
+|----------|--------|---------|
+| **SecuRock** | 🛡️ AI Security | ML-powered SOC platform for intelligent threat detection. *Google Vortexa Winner.* |
+| **VeriFace** | 👁️ Computer Vision | Deepfake and AI-generated image detection using deep learning. |
+| **Arthadhan** | 📈 FinTech AI | Predictive analytics platform for financial intelligence and forecasting. |
+| **Transformer Chatbot** | 🧠 NLP | Custom Transformer architecture with self-attention built from scratch. |
 
 ---
 
-<div align="center"><i>Open to AI/ML internships and research collaborations.</i></div>
+## ◈ Technical Stack
+
+### Neural Intelligence
+![PyTorch](https://img.shields.io/badge/PyTorch-00F7FF?style=for-the-badge&logo=pytorch&logoColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00F7FF?style=for-the-badge&logo=tensorflow&logoColor=000000)
+![Keras](https://img.shields.io/badge/Keras-00F7FF?style=for-the-badge&logo=keras&logoColor=000000)
+![OpenCV](https://img.shields.io/badge/OpenCV-00F7FF?style=for-the-badge&logo=opencv&logoColor=000000)
+
+### Language & Intelligence Systems
+![Transformers](https://img.shields.io/badge/Transformers-C7A008?style=for-the-badge&logo=huggingface&logoColor=000000)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-C7A008?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-C7A008?style=for-the-badge)
+![Predictive%20Modeling](https://img.shields.io/badge/Predictive_Modeling-C7A008?style=for-the-badge)
+
+### Engineering & Infrastructure
+![Python](https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1D4ED8?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1D4ED8?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1D4ED8?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+<div align="center">
+
+### ⚙️ Current Mission
+
+```yaml
+Focus:
+  - Computer Vision
+  - AI Security
+  - NLP Systems
+  - Agentic AI
+
+Status: Building • Learning • Shipping
+```
+
+*"Turning data into intelligence and intelligence into impact."*
+
+</div>
