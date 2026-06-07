@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Replace 'agi-banner.gif' with the exact filename of the GIF you upload to this repository -->
-<img width="100%" src="agi-banner.gif" alt="Animated AI/AGI Banner" />
+<!-- Working Neural Network / AI Animated Banner -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Neural Network Banner" />
 
 <br>
 
@@ -31,7 +31,7 @@
 Status: ONLINE
 
 Active Endeavors:
-  - Engineering multimodal AI and agentic workflows (Gemini/LLMs)
+  - Engineering multimodal AI and agentic workflows
   - Exploring cloud architecture and full-stack deployments
   - Cultivating startup initiatives and entrepreneurial ventures
 
