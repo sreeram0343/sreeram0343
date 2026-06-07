@@ -1,149 +1,99 @@
-<div align="center">
+<!-- HERO -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&color=0:020617,40:06152B,100:0A1E40&text=SREERAM%20M%20R&fontColor=EAF6FF&fontSize=58&fontAlignY=42&desc=Artificial%20Intelligence%20Systems&descAlignY=64&descSize=20"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" width="100%" alt="Banner">
+</p>
 
-<br>
+<h1 align="center">SREERAM M R</h1>
 
-### Artificial Intelligence Engineer
+<p align="center">
+  <b>Artificial Intelligence Engineer</b>
+</p>
 
-*Building autonomous systems capable of perceiving, reasoning, and adapting.*
-
-<br>
-
-<a href="https://linkedin.com/in/sreeram4">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-
-<a href="mailto:sreerammurali2005@gmail.com">
-<img src="https://img.shields.io/badge/Contact-020617?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
-</a>
-
-<a href="https://github.com/sreeram0343">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-</a>
-
-<br><br>
-
-`COMPUTATIONAL PERCEPTION` • `MULTIMODAL INTELLIGENCE` • `AI SECURITY`
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Security-00D9FF?style=for-the-badge" />
+</p>
 
 ---
 
-## Neural Snapshot
+## Connect
 
-```yaml
-name: Sreeram M R
+<p align="left">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-role:
-  Artificial Intelligence Engineer
+  <a href="YOUR_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-domains:
-  - Computer Vision
-  - Natural Language Processing
-  - AI Security
-  - Agentic Systems
-
-mission:
-  Build intelligent systems that understand,
-  reason, and operate in complex environments.
-```
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=black">
+  </a>
+</p>
 
 ---
 
 ## Selected Systems
 
-### ◉ SecuRock
+| Project | Description |
+|----------|-------------|
+| **SecuRock** | Intelligent SOC platform with ML-powered threat detection and automated analysis |
+| **VeriFace** | Deepfake and synthetic media detection using advanced computer vision |
+| **Arthadhan** | Predictive financial intelligence platform powered by machine learning |
+| **Transformer Chatbot** | Attention mechanisms and language understanding built from scratch |
 
-An intelligent Security Operations Center designed to enhance threat detection through machine learning and automated analysis.
+### Highlight
 
-**Google Vortexa Hackathon Winner**
-
----
-
-### ◉ VeriFace
-
-A computer vision system focused on detecting deepfakes and synthetic media using advanced image understanding techniques.
-
----
-
-### ◉ Arthadhan
-
-A predictive financial intelligence platform that transforms data into actionable insights through machine learning.
+🏆 **Google Vortexa Winner — SecuRock**
 
 ---
 
-### ◉ Transformer Chatbot
+## Tech Stack
 
-A Transformer architecture implemented from scratch to explore attention mechanisms and language understanding.
+### AI / ML
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EF4C2D?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## Research Interests
+### Development
 
-```text
-Artificial Intelligence
-
-├─ Computer Vision
-│  ├─ Image Understanding
-│  ├─ Deepfake Detection
-│  └─ Visual Intelligence
-│
-├─ Natural Language Processing
-│  ├─ Transformers
-│  ├─ Large Language Models
-│  └─ Agentic Systems
-│
-└─ Security
-   ├─ Threat Intelligence
-   ├─ Anomaly Detection
-   └─ Autonomous Defense
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Technology Ecosystem
-
-### Intelligence
-
-![PyTorch](https://img.shields.io/badge/PyTorch-020617?style=for-the-badge&logo=pytorch&logoColor=00D9FF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-020617?style=for-the-badge&logo=tensorflow&logoColor=00D9FF)
-![Keras](https://img.shields.io/badge/Keras-020617?style=for-the-badge&logo=keras&logoColor=00D9FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=00D9FF)
-
-### Language & Reasoning
-
-![Transformers](https://img.shields.io/badge/Transformers-020617?style=for-the-badge&logo=huggingface&logoColor=00D9FF)
-![LLMs](https://img.shields.io/badge/LLMs-020617?style=for-the-badge&logoColor=00D9FF)
-![NLP](https://img.shields.io/badge/NLP-020617?style=for-the-badge&logoColor=00D9FF)
-
-### Engineering
-
-![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask&logoColor=00D9FF)
-![Linux](https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=00D9FF)
-
----
-
-## Current Trajectory
+## Current Loop
 
 ```python
 while curiosity:
     learn()
     build()
-    experiment()
     iterate()
 
-return intelligence
+return intelligence  # work in progress
 ```
 
 ---
 
-<div align="center">
+## Focus Areas
 
-### Perception • Reasoning • Autonomy
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- NLP & LLMs
+- Cybersecurity
+- Deepfake Detection
+- Intelligent Systems
 
-*"The future belongs to systems that can understand the world, not just process it."*
+---
 
-</div>
+<p align="center">
+  <b>Perception • Reasoning • Autonomy</b>
+</p>
