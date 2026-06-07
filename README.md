@@ -1,99 +1,125 @@
-<!-- HERO -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png" width="100%" alt="Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,30:0F172A,70:7C3AED,100:06B6D4&text=SREERAM%20M%20R&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer&descAlignY=58&animation=fadeIn"/>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Security-F43F5E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square"/>
 </p>
 
-<h1 align="center">SREERAM M R</h1>
-
-<p align="center">
-  <b>Artificial Intelligence Engineer</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-00D9FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Security-00D9FF?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## Connect
+## About Me
 
-<p align="left">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+```python
+class SreeramMR:
 
-  <a href="YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+    role = "Artificial Intelligence Engineer"
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=black">
-  </a>
-</p>
+    interests = [
+        "Machine Learning",
+        "Computer Vision",
+        "Natural Language Processing",
+        "AI Security",
+        "Deep Learning"
+    ]
+
+    motto = "Perception → Reasoning → Autonomy"
+```
 
 ---
 
-## Selected Systems
+## Featured Systems
 
-| Project | Description |
-|----------|-------------|
-| **SecuRock** | Intelligent SOC platform with ML-powered threat detection and automated analysis |
-| **VeriFace** | Deepfake and synthetic media detection using advanced computer vision |
-| **Arthadhan** | Predictive financial intelligence platform powered by machine learning |
-| **Transformer Chatbot** | Attention mechanisms and language understanding built from scratch |
+### SecuRock
+Intelligent Security Operations Center powered by machine learning for threat detection, automated investigation, and cyber defense.
 
-### Highlight
+🏆 Google Vortexa Winner
 
-🏆 **Google Vortexa Winner — SecuRock**
+---
+
+### VeriFace
+Advanced deepfake and synthetic media detection system using computer vision and neural networks.
+
+---
+
+### Arthadhan
+Predictive financial intelligence platform leveraging machine learning for market insights and forecasting.
+
+---
+
+### Transformer Chatbot
+Language understanding system built from scratch using attention mechanisms and transformer architecture.
 
 ---
 
 ## Tech Stack
 
-### AI / ML
+### Artificial Intelligence
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EF4C2D?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
 
 ### Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flask,linux,git,github,vscode" />
+</p>
 
 ---
 
-## Current Loop
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+## Current Research Areas
+
+- Deep Learning
+- Large Language Models
+- Computer Vision
+- Deepfake Detection
+- AI Security
+- Intelligent Systems
+- Autonomous Agents
+
+---
+
+## Philosophy
 
 ```python
 while curiosity:
     learn()
-    build()
-    iterate()
 
-return intelligence  # work in progress
+    build()
+
+    fail()
+
+    improve()
+
+return intelligence
 ```
 
 ---
 
-## Focus Areas
+<div align="center">
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- NLP & LLMs
-- Cybersecurity
-- Deepfake Detection
-- Intelligent Systems
+### Perception • Reasoning • Autonomy
 
----
+</div>
 
-<p align="center">
-  <b>Perception • Reasoning • Autonomy</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:7C3AED,100:06B6D4"/>
