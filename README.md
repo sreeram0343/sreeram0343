@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://image-url-for-gif-of-image_6.png" alt="Animated AGI neural network and consciousness convergence." />
+<img width="100%" src="https://media.giphy.com/media/3o7TkmtExyR0o2R2tW/giphy.gif" alt="Animated Cyber/AI Banner" />
 
 <br>
 
@@ -21,15 +21,6 @@
 **AI & Data:** `PyTorch` `TensorFlow` `OpenCV` `HuggingFace` `Pandas`  
 **Engineering:** `Python` `MERN Stack` `Flask` `Google Cloud` `Render` `Git`  
 **Core Focus:** `LLMs` `Agentic Workflows` `SOCaaS & Threat Detection` `Web Security`  
-
----
-
-### 🚀 Featured Work
-
-* **🛡️ SecuRock** — ML-powered SOCaaS MVP for automated cyber defense and intelligent threat detection.
-* **👁️ VeriFace** — Deepfake and AI-generated image detection system using modern CV architectures.
-* **📈 Arthadhan** — Predictive financial intelligence platform for market analytics and forecasting.
-* **🤖 Transformer Chatbot** — Custom self-attention Transformer architecture built entirely from scratch.
 
 ---
 
