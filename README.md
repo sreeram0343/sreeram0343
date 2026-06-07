@@ -1,6 +1,10 @@
 <div align="center">
 
-# Sreeram M R
+<img width="100%" src="https://image-url-for-gif-of-image_6.png" alt="Animated AGI neural network and consciousness convergence." />
+
+<br>
+
+# SREERAM M R
 
 **Building intelligent systems at the intersection of Perception, Language, & Cyber Defense**
 
