@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Blank decorative wave banner — no text -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:60A5FA&height=150&section=header)
+<!  SREERAM M R  >
 
 <!-- Pixel developer coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="pixel developer coding"/>
