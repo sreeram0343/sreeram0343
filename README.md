@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -25,7 +25,7 @@
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Web Security](https://img.shields.io/badge/Web_Security-DC2626?style=for-the-badge&logo=hackerone&logoColor=white)
 
-### 🎯 Current Focus
+###  Current Focus
 
 > Building intelligent systems at the intersection of **Perception**, **Language**, and **Cyber Defense**.  
 > Currently engineering **multimodal AI** and **agentic workflows**.
