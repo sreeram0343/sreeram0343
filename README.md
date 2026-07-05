@@ -24,10 +24,7 @@
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 🔭 Current Learning Focus
 
-> Exploring the frontiers of **Artificial Intelligence** through hands-on projects and continuous education.
-> Currently focused on building **RAG architectures**, experimenting with **Agentic Workflows**, and tackling hackathons like the **Gemini Live Agent Challenge**. Constantly upskilling through technical training and certifications like **NPTEL** and **Cloud Study Jams**.
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:302b63,100:0f0c29&height=120&section=footer)
 
