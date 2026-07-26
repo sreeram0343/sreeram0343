@@ -3,13 +3,6 @@
 Final Year B.Tech Computer Science and Engineering Student  
 AI/ML Intern at Saina Human AI
 
-[LinkedIn](https://linkedin.com/in/sreeram4) | [Email](mailto:sreerammurali2005@gmail.com) | [GitHub](https://github.com/sreeram0343)
+Specializing in Large Language Models, RAG systems, and agentic workflows.
 
----
-
-### Tech Stack
-
-- **Languages:** Python
-- **Frameworks & Libraries:** PyTorch, TensorFlow
-- **AI/ML Focus:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic Workflows
-- **Cloud & Platforms:** Google Cloud Platform (GCP)
+[LinkedIn](https://linkedin.com/in/sreeram4) · [Email](mailto:sreerammurali2005@gmail.com) · [GitHub](https://github.com/sreeram0343)
