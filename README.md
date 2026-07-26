@@ -10,20 +10,5 @@ Specializing in Large Language Models, RAG systems, and agentic workflows.
 
 
 <div align="center">
-
-# Better Call Ram
-
-### AI Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
- Artificial Intelligence  
- Machine Learning  
- Agentic Systems  
- Building the Future
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**"Silence builds what words never could."**
-
+  <img src="better_call_ram_card_bw.svg" alt="Better Call RAM" width="600"/>
 </div>
