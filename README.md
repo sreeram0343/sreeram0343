@@ -11,19 +11,6 @@ Specializing in Large Language Models, RAG systems, and agentic workflows.
 
 <div align="center">
 
-> *"The truth is out there."*  
-> — The X-Files
-
-> *"Who controls the past controls the future. Who controls the present controls the past."*  
-> — George Orwell, 1984
-
-> *"Follow the money."*  
-> — All the President's Men
-
-> *"Absolute power corrupts absolutely."*  
-> — Lord Acton
-
-> *"Trust no one."*  
-> — The X-Files
+>"I have not yet begun to fight." — John Paul Jones
 
 </div>
