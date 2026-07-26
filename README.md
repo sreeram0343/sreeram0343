@@ -11,6 +11,6 @@ Specializing in Large Language Models, RAG systems, and agentic workflows.
 
 <div align="center">
 
->"I have not yet begun to fight." — John Paul Jones
+> "I have not yet begun to fight." — John Paul Jones
 
 </div>
