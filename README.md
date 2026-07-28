@@ -1,6 +1,6 @@
 Hi, I'm **Sreeram**. I'm an **AI/ML Engineering Intern** at **Saina Human AI**, where I build intelligent AI applications, scalable machine learning systems, and production-ready AI infrastructure.
 
-Previously studied at: **Lourdes Matha College of Science & Technology (LMCST)**, pursuing a **B.Tech in Computer Science & Engineering**.
+Education: **Lourdes Matha College of Science & Technology (LMCST)**, pursuing a **B.Tech in Computer Science & Engineering**.
 
 <table>
 <tr>
