@@ -8,7 +8,7 @@ Education: [`Lourdes Matha College of Science & Technology`](https://lmcst.ac.in
 
 ### Stats
 
-![](./profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreeram0343&theme=github_dark)
 
 </td>
 
@@ -16,7 +16,7 @@ Education: [`Lourdes Matha College of Science & Technology`](https://lmcst.ac.in
 
 ### Top Languages by Repo
 
-![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreeram0343&theme=github_dark)
 
 </td>
 
@@ -24,7 +24,7 @@ Education: [`Lourdes Matha College of Science & Technology`](https://lmcst.ac.in
 
 ### Top Languages by Commit
 
-![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreeram0343&theme=github_dark)
 
 </td>
 </tr>
