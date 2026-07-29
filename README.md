@@ -56,12 +56,12 @@ Intelligent applications built on modern LLM and ML tooling.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=D4AF37)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=D4AF37)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=D4AF37)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=D4AF37)
 
 </div>
 
@@ -75,8 +75,8 @@ Intelligent applications built on modern LLM and ML tooling.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreeram0343&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram0343&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sreeram0343&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F0&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram0343&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=D4AF37&text_color=F5F5F0" width="42%" />
 
 </div>
 
@@ -84,7 +84,7 @@ Intelligent applications built on modern LLM and ML tooling.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeram0343&theme=dark&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeram0343&hide_border=true&background=1a1a2e&stroke=1a1a2e&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F5F0&currStreakNum=F5F5F0&sideNums=F5F5F0&dates=F5F5F0" width="60%" />
 
 </div>
 
@@ -98,9 +98,9 @@ Intelligent applications built on modern LLM and ML tooling.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sainahumanai.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreeram0343)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=About.me&logoColor=D4AF37)](https://sainahumanai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/sreeram0343)
 
 </div>
 
