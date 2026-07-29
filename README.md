@@ -22,6 +22,7 @@ I'm **Sreeram**, an **AI/ML Engineering Intern** at [Saina Human AI](https://sai
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeram0343&hide_border=true&background=1a1a2e&stroke=1a1a2e&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F5F5F0&currStreakNum=F5F5F0&sideNums=F5F5F0&dates=F5F5F0" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sreeram0343&hide_border=true&bg_color=1a1a2e&title_color=D4AF37&icon_color=D4AF37&text_color=F5F5F0&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Contributions+This+Year" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram0343&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=D4AF37&text_color=F5F5F0" width="45%" />
 
 </div>
