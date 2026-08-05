@@ -1,63 +1,25 @@
-<div align="center">
-
-# SREERAM
-
-**AI / ML Engineering Intern**
-
-Building intelligent applications, scalable machine learning systems,
-and production-ready AI infrastructure.
-
-</div>
-
-<br>
-
-<table align="center" border="0">
-<tr>
-<td align="right"><b>Organization</b></td>
-<td><a href="https://sainahumanai.com">Saina Human AI</a></td>
-</tr>
-<tr>
-<td align="right"><b>Education</b></td>
-<td><a href="https://lmcst.ac.in">Lourdes Matha College of Science & Technology</a> — B.Tech, Computer Science & Engineering</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
----
-
-</div>
-
 <table align="center">
 <tr>
 <td width="33%" align="center">
 
 **Overview**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreeram0343&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=sreeram0343&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
 </td>
 <td width="33%" align="center">
 
-**Languages by Repository**
+**Most Used Languages**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreeram0343&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram0343&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
 </td>
 <td width="33%" align="center">
 
-**Languages by Commit**
+**Streak**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreeram0343&theme=github_dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sreeram0343&theme=dark&hide_border=true&background=0D1117)
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
----
-
-</div>
