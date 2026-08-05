@@ -4,8 +4,7 @@
 
 **AI / ML Engineering Intern**
 
-Building intelligent applications, scalable machine learning systems,
-and production-ready AI infrastructure.
+Building Intelligent Systems.
 
 </div>
 
