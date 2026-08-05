@@ -1,3 +1,35 @@
+<div align="center">
+
+# SREERAM
+
+**AI / ML Engineering Intern**
+
+Building intelligent applications, scalable machine learning systems,
+and production-ready AI infrastructure.
+
+</div>
+
+<br>
+
+<table align="center" border="0">
+<tr>
+<td align="right"><b>Organization</b></td>
+<td><a href="https://sainahumanai.com">Saina Human AI</a></td>
+</tr>
+<tr>
+<td align="right"><b>Education</b></td>
+<td><a href="https://lmcst.ac.in">Lourdes Matha College of Science & Technology</a> — B.Tech, Computer Science & Engineering</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+---
+
+</div>
+
 <table align="center">
 <tr>
 <td width="33%" align="center">
@@ -16,10 +48,16 @@
 </td>
 <td width="33%" align="center">
 
-**Streak**
+**Contribution Streak**
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sreeram0343&theme=dark&hide_border=true&background=0D1117)
+![](https://streak-stats.demolab.com/?user=sreeram0343&theme=dark&hide_border=true&background=0D1117)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+---
+
+</div>
