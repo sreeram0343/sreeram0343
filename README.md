@@ -1,61 +1,63 @@
-Hi, I'm **Sreeram**. I'm an **AI/ML Engineering Intern** at [`Saina Human AI`](https://sainahumanai.com) , where I build intelligent AI applications, scalable machine learning systems, and production-ready AI infrastructure.
+<div align="center">
 
+# SREERAM
 
+**AI / ML Engineering Intern**
 
-Education: [`Lourdes Matha College of Science & Technology`](https://lmcst.ac.in) , pursuing a **B.Tech in Computer Science & Engineering**.
+Building intelligent applications, scalable machine learning systems,
+and production-ready AI infrastructure.
 
+</div>
 
+<br>
 
-<table>
-
+<table align="center" border="0">
 <tr>
+<td align="right"><b>Organization</b></td>
+<td><a href="https://sainahumanai.com">Saina Human AI</a></td>
+</tr>
+<tr>
+<td align="right"><b>Education</b></td>
+<td><a href="https://lmcst.ac.in">Lourdes Matha College of Science & Technology</a> — B.Tech, Computer Science & Engineering</td>
+</tr>
+</table>
 
-<td width="33%">
+<br>
 
+<div align="center">
 
+---
 
-### Stats
+</div>
 
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
+**Overview**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreeram0343&theme=github_dark)
 
-
-
 </td>
+<td width="33%" align="center">
 
-
-
-<td width="33%">
-
-
-
-### Top Languages by Repo
-
-
+**Languages by Repository**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreeram0343&theme=github_dark)
 
-
-
 </td>
+<td width="33%" align="center">
 
-
-
-<td width="33%">
-
-
-
-### Top Languages by Commit
-
-
+**Languages by Commit**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreeram0343&theme=github_dark)
 
-
-
 </td>
-
 </tr>
-
 </table>
+
+<div align="center">
+
+---
+
+</div>
