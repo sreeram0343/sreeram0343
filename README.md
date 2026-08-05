@@ -2,7 +2,7 @@
 
 # SREERAM M R
 
-**AI / ML Engineering Intern**
+**AI / ML Engineer**
 
 Building Intelligent Systems.
 
