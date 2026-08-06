@@ -1,2 +1,2 @@
-I likes AGI.
+I like AGI.
 
